@@ -1,2 +1,2 @@
-# ecommerce-gateway
+# ecommerce-gateway-server
 E-Commerce GateWay
